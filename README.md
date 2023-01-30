@@ -1,5 +1,5 @@
-# Graphics2D_Win32_Desktop_Project
-Graphics2D_Win32_Desktop_Project Simple Drawing Application Based on Mathematics and Problem Solving with C++
+# ComputerGraphics2D_Win32_Desktop_Project
+ComputerGraphics2D_Win32_Desktop_Project Simple Drawing Application Based on Mathematics and Problem Solving with C++
 
  -Building computer graphics from scratch using mathematical equations and problem solving with C++ .
  
